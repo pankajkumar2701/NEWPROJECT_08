@@ -1,0 +1,24 @@
+{
+    "environment": {
+        "name": "Local",
+        "production": false
+    },
+    "appInsights": {
+        "instrumentationKey": ""
+    },
+    "logging": {
+        "console": true,
+        "appInsights": false
+    },
+    "api": {
+        "url": "https://abc.azurewebsites.net"
+    },
+    "app": {
+        "title": "NEWPROJECT_08"
+    },
+    "buildInfo": {
+        "number": "1.0.0.0",
+        "createdOn": "Wednesday, May 08, 2024 5:25:08 AM"
+    },
+    "environments": []
+}
